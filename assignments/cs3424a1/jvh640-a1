@@ -1,0 +1,42 @@
+#!/bin/bash
+
+# This script will be used to create and maintain a simple inventory system
+
+# Display menu and valid choices
+
+# Check if choice is valid, if not prompt again
+
+# C assign1/create.bash - Creates item in a file with relavent information
+#   Item Number: (int) Simple Name: (String, no whitespace) Item name: (String) Current Quantity: (Integer) Max Quantity: (Integer) Description: (String)
+#   Create new file in data directory with a .item extensionw
+#   Append data/queries.log with "CREATED: simple_name - date"
+#   If item exists error propmpt
+
+# R assign1/read.bash - Read an existing file's information
+#   Prompt user for item number
+#   Search for item using the item number
+#   Echo the item information. Format:
+#   Item Name:  item_name
+#   Simple Name: simple_name
+#   Item Number: item_number
+#   Qty: current_guantity/max_quantity
+#   Description: description
+#   Error promp if item not found
+
+# U assign1/update.bash - Update an existing item
+#   Prompt user for item parameters one at a time
+#   Search for item using the item number
+#   Update each field based on user input, if blank keep original value with exception of item number
+#   Append  data/queries.log by adding "UPDATED: simple_name - date"
+#   If item not found Error prompt
+
+# D assign1/delete.bash - Delete an existing item
+#   Prompt user for item_number
+#   Delete specified item's file
+#   Append data/queries.log "Deleted: simple_name - date
+#   Echo "simple_name was successfully deleted."
+#   If item not found Error prompt
+
+# If invalid character print invalid option error
+# CTRL-D exit
+

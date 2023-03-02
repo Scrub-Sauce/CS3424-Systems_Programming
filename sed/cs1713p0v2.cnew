@@ -1,0 +1,5 @@
+ 	 // about the safety of scanf and printf
+    printf("%-10s %-20s %10s %10s %10s %10s\n"
+            printf("invalid input when reading student data, only %d valid values. \n"
+            printf("\tdata is %s\n", szInputBuffer);
+        printf("%-10s %-20s %10.2f %10.2f %10.2f %10.2f\n"

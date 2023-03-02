@@ -1,0 +1,4 @@
+My name is Kyle Anderson
+I am running this script from /home/jvh640/courses/cs3424/assignments
+My username is jvh640
+I am logged into fox05

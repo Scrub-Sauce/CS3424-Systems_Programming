@@ -1,0 +1,40 @@
+#!/bin/bash
+
+# Prints even lines of a file and evaluates the file size.
+
+
+# Check for proper parameters
+
+if [[ "${#}" -ne 1 ]]
+then
+    echo "Usage: ${0} filename.txt" >&2
+    exit 1
+fi
+
+file_name=${1}
+line_count=0
+remainder_check=0
+
+while read line; do
+    ((remainder_check=$line_count%2))
+    if [[ ${remainder_check}  != 0 ]]
+    then
+        echo "${line}"
+    fi
+
+    if [[ ${line_count} = 10 ]]
+    then
+        break
+    fi
+
+   ((line_count+=1))
+
+done < "$file_name"
+
+if [[ ${line_count} = 10 ]]
+then
+    echo "big"
+else
+    echo "small"
+fi
+

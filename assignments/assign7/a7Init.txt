@@ -1,0 +1,60 @@
+c
+1023
+Cultural Implications of the Information Society
+MWF
+3
+37
+c
+1033
+Microcomputer Applications
+TR
+3
+40
+c
+4223
+Bioinformatics and Big Data
+MWF
+3
+49
+c
+4393
+User Interfaces
+TR
+3
+52
+c
+4963
+Advanced Topics in Systems and Cloud
+TR
+3
+38
+c
+1022
+Cultural Implications of the Information Society
+MWF
+3
+37
+c
+1032
+Microcomputer Applications
+TR
+3
+40
+c
+4222
+Bioinformatics and Big Data
+MWF
+3
+49
+c
+4392
+User Interfaces
+TR
+3
+52
+c
+4962
+Advanced Topics in Systems and Cloud
+TR
+3
+38

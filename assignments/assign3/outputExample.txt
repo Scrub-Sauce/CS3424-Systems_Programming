@@ -1,0 +1,80 @@
+Username: mjy610
+        Directories: 3
+
+Username: hrb980
+   Files:
+                All: 196
+             Hidden: 2
+        Directories: 3
+        Storage (B): 77543 bytes
+
+Username: pdq039
+        Directories: 3
+
+Username: zqu051
+   Files:
+                All: 452
+             Hidden: 0
+        Storage (B): 652583 bytes
+
+Username: mce237
+   Files:
+                All: 52
+             Hidden: 1
+        Directories: 4
+        Storage (B): 2729344 bytes
+
+Username: dad980
+   Files:
+                All: 4
+             Hidden: 1
+        Directories: 3
+        Storage (B): 6614 bytes
+
+Username: pmp099
+        Directories: 2
+             Others: 10
+
+Username: ynb963
+   Files:
+                All: 1
+             Hidden: 0
+        Directories: 3
+        Storage (B): 2894 bytes
+
+Username: xie192
+        Directories: 3
+
+Username: kaq447
+   Files:
+                All: 2
+             Hidden: 0
+        Directories: 3
+        Storage (B): 3092 bytes
+
+Username: bfn715
+        Directories: 3
+
+Username: root
+   Files:
+                All: 1
+             Hidden: 0
+        Directories: 5
+             Others: 1
+        Storage (B): 11 bytes
+
+Username: hrm102
+        Directories: 3
+
+Oldest file:
+    -r--r--r--  1 root   root          11 2020/02/23 12:11:04 yum.p1922.lock
+Newest file:
+    -rw-------  1 hrb980 students    1308 2020/04/07 11:10:08 output1682000050179
+
+Total users:           13
+Total files:
+    (All / Hidden):    ( 708 / 4 )
+Total directories:     38
+Total others:          11
+Storage (B):           3472081 bytes
+
